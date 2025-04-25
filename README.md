@@ -26,7 +26,7 @@
 | 풀 주소      | `solo.ckpool.org:3333` |
 | 후원 주소    | `bc1qavzc2wcs03m7lyz0gvqzl8yhk4nn79sme0twwu` |
 | 평균 해시    | 1~5 H/s |
-| 라이브러리   | WiFiClient, SHA256 구현 |
+| 라이브러리   | ESP8266WiFi, WiFiClient, Hash, Crypto, SHA256 |
 | 언어         | Arduino C++ |
 | 저작권       | CC BY-SA 4.0 |
 
