@@ -40,5 +40,7 @@
 ## ✒️ 철학
 
 " 미친 짓은 곧 혁신이다. " : " Crazy is innovation. "
+
 " 0이지만, 0은 곧 아니다. " : " 0, but it's not zero. "
+
 " 0에서 새로운 혁신으로 " : " From 0 to new innovations. "
